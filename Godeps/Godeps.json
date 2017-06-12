@@ -1,0 +1,21 @@
+{
+	"ImportPath": "github.com/TakiTake/go-slack-interactive",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/kelseyhightower/envconfig",
+			"Comment": "v1.3.0-6-g70f0258",
+			"Rev": "70f0258d44cbaa3b6a2581d82f58da01a38e4de4"
+		},
+		{
+			"ImportPath": "github.com/nlopes/slack",
+			"Comment": "v0.1.0-3-gf243c76",
+			"Rev": "f243c7602fdf906248fc1f165284daa4e4d2d09e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "1a68b1313cf4ad7778376e82641197b60c02f65c"
+		}
+	]
+}
